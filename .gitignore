@@ -1,2 +1,4 @@
 # Project exclude paths
-/bfs-of-graph-two/target/
+target
+/.idea/
+*.iml

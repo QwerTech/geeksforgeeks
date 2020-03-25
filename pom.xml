@@ -20,6 +20,7 @@
   <modules>
     <module>bfs-of-graph</module>
     <module>bfs-of-graph-two</module>
+    <module>kth-smallest-element</module>
   </modules>
 
   <dependencies>
